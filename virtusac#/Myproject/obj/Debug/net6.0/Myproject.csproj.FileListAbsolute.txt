@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Desktop\Myproject\bin\Debug\net6.0\Myproject.exe
+C:\Users\Dell\OneDrive\Desktop\Myproject\bin\Debug\net6.0\Myproject.deps.json
+C:\Users\Dell\OneDrive\Desktop\Myproject\bin\Debug\net6.0\Myproject.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Myproject\bin\Debug\net6.0\Myproject.dll
+C:\Users\Dell\OneDrive\Desktop\Myproject\bin\Debug\net6.0\Myproject.pdb
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\Myproject.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\Myproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\Myproject.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\Myproject.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\Myproject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\Myproject.dll
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\refint\Myproject.dll
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\Myproject.pdb
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\Myproject.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Myproject\obj\Debug\net6.0\ref\Myproject.dll
